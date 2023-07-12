@@ -1,0 +1,3 @@
+E:\C++学习\ThreadPool—C++11\TaskQueue.cpp|638243211375674150|/home/zsl/projects/ThreadPool—C++11/||g++ -c -x c++ "/home/zsl/projects/ThreadPool—C++11/TaskQueue.cpp" -g2 -gdwarf-2 -o "/home/zsl/projects/ThreadPool—C++11/obj/x64/Debug/TaskQueue.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+E:\C++学习\ThreadPool—C++11\TaskQueue.h|638243211516757663|/home/zsl/projects/ThreadPool—C++11/|| 
+E:\C++学习\ThreadPool—C++11\ThreadPool.h|638243214890060748|/home/zsl/projects/ThreadPool—C++11/|| 

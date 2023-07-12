@@ -1,0 +1,19 @@
+﻿  正在验证源
+  正在将源远程复制到“101.42.156.197”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  test.cpp
+E:\C++学习\ThreadPool—C++11\ThreadPool.h(27,6): error : prototype for ‘decltype (((ThreadPool*)this)->ThreadPool::taskQueue->.TaskQueue::addTask(f, (forward<Args>)(ThreadPool::commit::args)...)) ThreadPool::commit(F&, Args&& ...)’ does not match any in class ‘ThreadPool’
+E:\C++学习\ThreadPool—C++11\ThreadPool.h(22,10): error : candidate is: template<class F, class ... Args> decltype (((ThreadPool*)this)->ThreadPool::taskQueue->.TaskQueue::addTask(f, (forward<Args>)(ThreadPool::commit::args)...)) ThreadPool::commit(F&, Args&& ...)
+  ThreadPool.cpp
+E:\C++学习\ThreadPool—C++11\ThreadPool.h(27,6): error : prototype for ‘decltype (((ThreadPool*)this)->ThreadPool::taskQueue->.TaskQueue::addTask(f, (forward<Args>)(ThreadPool::commit::args)...)) ThreadPool::commit(F&, Args&& ...)’ does not match any in class ‘ThreadPool’
+E:\C++学习\ThreadPool—C++11\ThreadPool.h(22,10): error : candidate is: template<class F, class ... Args> decltype (((ThreadPool*)this)->ThreadPool::taskQueue->.TaskQueue::addTask(f, (forward<Args>)(ThreadPool::commit::args)...)) ThreadPool::commit(F&, Args&& ...)
+E:\C++学习\ThreadPool—C++11\ThreadPool.cpp(3,51): error : ‘make_unique’ is not a member of ‘std’
+E:\C++学习\ThreadPool—C++11\ThreadPool.cpp(3,77): error : expected primary-expression before ‘>’ token
+E:\C++学习\ThreadPool—C++11\ThreadPool.cpp(3,111): error : expression cannot be used as a function
+E:\C++学习\ThreadPool—C++11\ThreadPool.cpp(3,129): error : no match for call to ‘(std::atomic<int>) (int)’
+E:\C++学习\ThreadPool—C++11\ThreadPool.cpp(25,1): error : expected ‘{’ at end of input
+E:\C++学习\ThreadPool—C++11\ThreadPool.cpp(25,1): error :  }
+E:\C++学习\ThreadPool—C++11\ThreadPool.cpp(25,1): error :  ^
